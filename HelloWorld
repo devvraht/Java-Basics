@@ -1,0 +1,13 @@
+class HelloWorld
+{
+public static void main(String[]args)
+{
+System.out.println("Hello World");
+}
+}
+//File name must be same as that of the class name 
+//For running this code in windows onw must open cmd 
+//First "CD "Location of the file"
+//Second "set PATH="JAVA Location " "
+//Third "javac filename.java "
+//Fourth "java filename " 
