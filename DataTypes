@@ -1,0 +1,23 @@
+class DataTypes
+{
+	public static void main(String[]args)
+	{
+		byte a=10;
+		short b= 18;
+		int c= 30;
+		long d= 10;
+		float e = 12.12345f ;
+		char ch1, ch2;
+    ch1 = 88;
+    ch2 = 'Y';
+		      System.out.println("Output"+a);
+		      System.out.println(+b);
+		      System.out.println(+c);	
+		      System.out.println(+d);
+        	System.out.println(+e);
+        	System.out.println(+ch1);
+        	System.out.println(+ch2 );
+	
+	}
+
+}
