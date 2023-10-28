@@ -1,0 +1,32 @@
+/*
+//Basic approach of Area of Rectangle 
+class AreaOfRectangle
+{
+	public static void main(String[]args)
+	{
+		int length = 15;
+		int breadth = 25;
+		System.out.println("Given Length\t"+length + " \nGiven Breadth\t"+breadth);
+		long area = length * breadth;
+		System.out.println("Area Of Rectangle : \t"+area);
+	}
+}
+*/
+/*
+//Here we have a user defined code for area of rctangle
+import java.util.*;
+	class AreaOfRectangle
+	
+	{
+		public static void main(String[]args)
+		{
+			System.out.println("Enter the Length & Breadth of Rectangle");
+			Scanner lr = new Scanner(System.in);
+			int length = lr.nextInt();
+			int breadth = lr.nextInt();
+			long area = length * breadth;
+			System.out.println("Area Of a Rectangle : \t"+area);
+
+		}
+	}
+*/		
