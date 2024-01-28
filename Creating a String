@@ -1,0 +1,13 @@
+class String
+{
+	public static void main(String[]args)
+	{
+	String a="Creating a String";
+	System.out.println(a);
+		
+		
+		
+	}
+}
+O/p:
+Creating a String
