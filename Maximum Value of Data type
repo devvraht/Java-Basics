@@ -1,0 +1,22 @@
+class HelloWorld
+{
+	public static void main(String[]args)
+	{
+		System.out.println("Max Value Of Int: "+ Integer.MAX_VALUE);
+		System.out.println("Max value of Long"+ Long.MAX_VALUE);
+		System.out.println("Max value of Byte"+ Byte.MAX_VALUE);
+		System.out.println("Max value of Float "+ Float.MAX_VALUE);
+		System.out.println("Max value of Short "+ Short.MAX_VALUE);
+		System.out.println("Max value of Double "+ Double.MAX_VALUE);
+		
+		
+		
+	}
+}
+
+Max Value Of Int: 2147483647
+Max value of Long9223372036854775807
+Max value of Byte127
+Max value of Float 3.4028235E38
+Max value of Short 32767
+Max value of Double 1.7976931348623157E308
