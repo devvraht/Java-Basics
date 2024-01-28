@@ -1,0 +1,24 @@
+class MinimumValue
+{
+	public static void main(String[]args)
+	{
+		System.out.println("Minimum Value Of Int: "+ Integer.MIN_VALUE);
+		System.out.println("Minimum value of Long"+ Long.MIN_VALUE);
+		System.out.println("Minimum value of Byte"+ Byte.MIN_VALUE);
+		System.out.println("Minimum value of Float "+ Float.MIN_VALUE);
+		System.out.println("Minimum value of Short "+ Short.MIN_VALUE);
+		System.out.println("Minimum value of Double "+ Double.MIN_VALUE);
+		
+		
+		
+	}
+}
+
+
+O/P:
+Minimum Value Of Int: -2147483648
+Minimum value of Long-9223372036854775808
+Minimum value of Byte-128
+Minimum value of Float 1.4E-45
+Minimum value of Short -32768
+Minimum value of Double 4.9E-324
